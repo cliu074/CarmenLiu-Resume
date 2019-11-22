@@ -1,15 +1,4 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
-# Carmen-liu
+# Welcome to Carmen's Resume. 
+I have created this resume that incorporates a hint of my work history and experiences. 
+This is an overall view of who I am and what I emcompass to build towards my goal to become a clinical psychologist. 
+As a current undergraduate student, this resume will help me further my professional career in the near future. 
